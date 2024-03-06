@@ -1,1 +1,1 @@
-# krik-vercel
+# Krik
